@@ -44,28 +44,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual país sediou a Copa do Mundo de 2022? ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Catar   ",
+                afirmacao: " O Catar sediou a Copa do Mundo de 2022. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Russia   ",
+                afirmacao: " O Russia sediou a Copa do Mundo de 2022. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Quantos títulos o Brasil tem na Copa do Mundo?   ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: " 5 Titulos ",
+                afirmacao: "O Brasil é o país com mais títulos, tendo vencido a Copa do Mundo 5 vezes. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " 4 Titulos ",
+                afirmacao: " O Brasil é o país com mais títulos, tendo vencido a Copa do Mundo 4 vezes. ",
             }
         ]
     },
