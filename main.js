@@ -2,7 +2,7 @@ const perguntas = [
 
 
 
-    
+
     {
         enunciado: "Quando foi desenvolvido a primeira copa do mundo?
 ",
@@ -31,15 +31,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual país foi o anfitrião da Copa do Mundo de 2014? ",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Brasil ",
+                afirmacao: " O Brasil sediou a Copa do Mundo de 2014. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Argentina ",
+                afirmacao: " A Argentina sediou a Copa do Mundo de 2014. ",
             }
         ]
     },
