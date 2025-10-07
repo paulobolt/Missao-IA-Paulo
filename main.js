@@ -1,27 +1,32 @@
 const perguntas = [
+
+
+
+    
     {
-        enunciado: "Pergunta?",
+        enunciado: "Quando foi desenvolvido a primeira copa do mundo?
+",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: " 13 de julho de 1930, no uruguai.",
+                afirmacao: " criada em 1930 no uruguai. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " criada  13 de julho de 1934, no méxico. ",
+                afirmacao: " criada no dia 13 de julho. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual era o nome da taça antiga?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Até 1970, o troféu era conhecido como Taça Jules Rimet.  ",
+                afirmacao: " Criador da Copa Jules Rimet. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Taça das Nações Unidas ",
+                afirmacao: " Liga das Nações da UEFA ",
             }
         ]
     },
