@@ -1,7 +1,7 @@
 const perguntas = [
 
 
-
+t
 
     {
         enunciado: "Quando foi desenvolvido a primeira copa do mundo?
